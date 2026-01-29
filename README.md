@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mehmet
 
-<!--
-**mehmetsungurmutlu/mehmetsungurmutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building real, useful products.
+Active open-source contributor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Frontend: Next.js, React, TypeScript, Tailwind CSS
+* Backend: Node.js, Prisma, MongoDB
+* Auth / Infra: Clerk, NextAuth, Supabase
+* AI: LangChain, OpenAI API
+
+---
+
+## What I’m Working On
+
+* Legal-tech and AI tools (document generation, automation)
+* Scalable full-stack applications
+* Open-source contributions (GitHub PRs and issues)
+
+---
+
+## Open Source
+
+* Contributor to open-source projects
+* Focused on clean code, developer experience, and real-world impact
+
+---
+
+## Philosophy
+
+Build things that solve real problems.
+
+---
+
+## Contact
+
+* Email: [mehmetsungurmutlu@gmail.com](mailto:mehmetsungurmutlu@gmail.com)
+
+---
+
+Always learning. Always building.
